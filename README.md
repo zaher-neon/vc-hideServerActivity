@@ -17,5 +17,5 @@ div.container__0f2e8:has(> div img) {
 ```
 
 ### **Using Vencord Plugin (Less Efficient)**
-👉 [Jump Here](https://github.com/zaher-neon/vencord-userplugins)
+👉 [Jump Here For Plugin Installation](https://github.com/zaher-neon/vencord-userplugins)
 
