@@ -4,7 +4,7 @@
 Hides the "Activity" section from the server members list in Discord, including any activity cards like playing games, listening to music, or streaming.  
 
 ## Two Ways:
-**Using Vencord Custom CSS (Recommended)**
+### **Using Vencord Custom CSS (Recommended)**
 Just go to `Settings` > `Vencord` and 'Enable Custom CSS' then press 'Edit QuickCSS', paste following code:
 ```CSS
 h3.membersGroup_c8ffbb:has(> span > div svg) {
@@ -16,6 +16,6 @@ div.container__0f2e8:has(> div img) {
 }
 ```
 
-**Using Vencord Plugin**
+### **Using Vencord Plugin**
 👉 [Jump Here](https://github.com/zaher-neon/vencord-userplugins)
 
